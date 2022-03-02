@@ -1,0 +1,5 @@
+This is what the final product of the program should look like:
+
+Your Luck Color is: Pink
+Your Fortune is: Be wary of over-complimenters; they may be planning your downfall.
+Your Lucky number is: 47
